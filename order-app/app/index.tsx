@@ -85,7 +85,7 @@ export default function App() {
     setPunchType("Tradicional");
     setAlcohol("Con Alcohol");
     setDueDate("29 de noviembre");
-  setSize("750ml");
+    setSize("750ml");
     
     setModalVisible(false);
     alert("¡Pedido registrado exitosamente! 🎉");
